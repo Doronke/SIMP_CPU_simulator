@@ -1,0 +1,7 @@
+﻿  sim.c
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\sim4pc1\sim\sim\sim.c(78,8): warning C4013: 'irq_status_check' undefined; assuming extern returning int
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\sim4pc1\sim\sim\sim.c(194,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\sim4pc1\sim\sim\sim.c(208,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\sim4pc1\sim\sim\sim.c(226,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\sim4pc1\sim\sim\sim.c(204): warning C4716: 'HexCharArrToInt': must return a value
+  sim.vcxproj -> C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\sim4pc1\sim\x64\Debug\sim.exe

@@ -1,0 +1,3 @@
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\final_codes_final\asm\x64\Debug\asm.exe
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm\x64\Debug\asm.exe
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\x64\Debug\asm.exe

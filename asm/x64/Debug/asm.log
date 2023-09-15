@@ -1,0 +1,11 @@
+﻿  asm.c
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\asm.c(237,15): warning C4013: 'HexToInt2sComp' undefined; assuming extern returning int
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\asm.c(257,14): warning C4013: 'immediate_converter' undefined; assuming extern returning int
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\asm.c(280,6): warning C4013: 'isalpha' undefined; assuming extern returning int
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\asm.c(308,15): warning C4013: 'HexCharToInt' undefined; assuming extern returning int
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\asm.c(302,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\asm.c(324,6): warning C4013: 'isdigit' undefined; assuming extern returning int
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\asm.c(328,7): warning C4013: 'tolower' undefined; assuming extern returning int
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\asm.c(140): warning C4715: 'get_line_type': not all control paths return a value
+C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\asm.c(298): warning C4715: 'immediate_converter': not all control paths return a value
+  asm.vcxproj -> C:\Users\noaba\source\repos\cpp_projects\computers_stracture\second_project\project1_206364952_206556128_318653193_314826611\asm2\x64\Debug\asm.exe
