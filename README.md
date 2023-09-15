@@ -1,5 +1,5 @@
 # SIMP CPU simulator
-SIMP CPU simulator and assembler built in C++. 2 version are available PC version and BASYS chip version.
+SIMP CPU simulator and assembler built in C. 2 version are available PC version and BASYS chip version.
 full documentation added in hebrew as PDF and explenation for the testing assembly progrems written in MIPS assembly the documentation of the code is written in english.
 
 ## PC simulation
